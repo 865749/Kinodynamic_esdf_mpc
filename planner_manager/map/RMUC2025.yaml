@@ -1,0 +1,8 @@
+%YAML:1.0
+---
+image: RMUC2025.pgm
+resolution: 0.01
+origin: [-6.35, -7.6, 0]
+occupied_thresh: 0.5
+free_thresh: 0.2
+negate: 0

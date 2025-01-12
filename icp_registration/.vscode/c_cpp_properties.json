@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/z/Ouuu_fast_planner_2D/install/planner_manager/include/**",
+        "/home/z/Ouuu_fast_planner_2D/install/path_searching/include/**",
+        "/home/z/Ouuu_fast_planner_2D/install/bspline_opt/include/**",
+        "/home/z/Ouuu_fast_planner_2D/install/bspline/include/**",
+        "/home/z/Ouuu_fast_planner_2D/install/plan_env/include/**",
+        "/home/z/Ouuu_fast_planner_2D/install/icp_registration/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/bspline/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/bspline_opt/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/icp_registration/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/lakibeam1_ros2_v1_0_0/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/path_searching/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/plan_env/include/**",
+        "/home/z/Ouuu_fast_planner_2D/src/planner_manager/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

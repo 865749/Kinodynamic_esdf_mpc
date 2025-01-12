@@ -1,0 +1,6 @@
+.vscode
+build
+__pycache__
+.idea
+install
+log
